@@ -3,8 +3,8 @@
 # Установить утилиту pwgen:
 # sudo apt install pwgen
 # Сделать файл исполняемым и запустить скрипт:
-# chmod +x new_password.sh (new_password.sh - исполняемый файл)
-# ./new_password.sh
+# chmod +x script.sh 
+# ./script.sh
 
 # Генерация случайного пароля из 10 символов с использованием pwgen
 password=$(pwgen -s 10 1)
