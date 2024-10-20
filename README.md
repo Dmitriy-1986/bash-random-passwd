@@ -2,6 +2,7 @@
 
 - Установить утилиту pwgen:
 ` sudo apt install pwgen `
-# Сделать файл исполняемым и запустить скрипт:
-# chmod +x script.sh 
-# ./script.sh
+- Сделать файл исполняемым и
+` chmod +x script.sh  `
+-  Запустить скрипт:
+` ./script.sh `
